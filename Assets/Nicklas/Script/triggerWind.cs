@@ -6,6 +6,7 @@ public class triggerWind : MonoBehaviour
 
 {
     public GameObject windObject;
+    public GameObject testObject;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,7 @@ public class triggerWind : MonoBehaviour
         if (collision.gameObject.tag == "WindCube")
         {
             windObject.SetActive(true);
+            testObject.SetActive(true);
         }
     }
 }
