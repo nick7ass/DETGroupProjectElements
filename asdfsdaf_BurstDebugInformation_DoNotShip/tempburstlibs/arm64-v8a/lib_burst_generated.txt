@@ -39,7 +39,7 @@ Library: C:\Users\nickl\DETGroupProjectElements\Temp\BurstOutput\tempburstlibs\a
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\nickl\DETGroupProjectElements\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\nickl\DETGroupProjectElements\Library\Burst
 --output=C:\Users\nickl\DETGroupProjectElements\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -85,7 +85,7 @@ Library: C:\Users\nickl\DETGroupProjectElements\Temp\BurstOutput\tempburstlibs\a
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\nickl\DETGroupProjectElements\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\nickl\DETGroupProjectElements\Library\Burst
 --output=C:\Users\nickl\DETGroupProjectElements\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
